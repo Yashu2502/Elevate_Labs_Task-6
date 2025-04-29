@@ -20,7 +20,8 @@
  
  F.Limit results for specific time periods.
 
- **Deliverables:**
+ ***Deliverables:***
+ 
  a) SQL script 
  
  b) Results table pdf file
