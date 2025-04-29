@@ -6,7 +6,8 @@
  ***Tools:*** MySQL Workbench
  ***Dataset:*** online_sales.csv
 
-***Steps Performed:*** 
+***Steps Performed:***
+
  A.Use EXTRACT(MONTH FROM order_date) for month.
  
  B.GROUP BY year/month.
@@ -19,8 +20,10 @@
  
  F.Limit results for specific time periods.
 
- **Deliverables: **
+ **Deliverables:**
  a) SQL script 
+ 
  b) Results table pdf file
+ 
  c) Dataset used
  
